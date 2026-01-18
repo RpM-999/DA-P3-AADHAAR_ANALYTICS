@@ -1,0 +1,31 @@
+# Database Data Files
+Datasets/
+
+# Alternatively, ignore specific CSV files
+*.csv
+
+# SQL Server files
+*.mdf
+*.ldf
+*.bak
+
+# Python cache (if using Python for analysis)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
