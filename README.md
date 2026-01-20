@@ -52,6 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🐙 GitHub: [Link](https://github.com/RpM-999)
 - 💼 LinkedIn: [Link](https://linkedin.com/in/rupam-mondal-data-science )
 
-**Project Link**: [LINK](https://github.com/RpM-999/SQL-P1-SWIGGY_SALES_ANALYSIS)
+**Project Link**: [LINK](https://github.com/RpM-999/DA-P3-AADHAAR_ANALYTICS)
 
 ---
